@@ -1,5 +1,5 @@
 ## 0. **프로그램 다운**
-![다운로드](https://drive.google.com/file/d/1_BdhS5AS2oNsx59Za617HBWvPA_SVmfa/view?usp=drive_link)
+![다운로드](https://drive.google.com/file/d/1_BdhS5AS2oNsx59Za617HBWvPA_SVmfa/view)
 
 ## 1. **Preview**
 
