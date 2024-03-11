@@ -2,12 +2,12 @@
 [다운로드](https://drive.google.com/file/d/1_BdhS5AS2oNsx59Za617HBWvPA_SVmfa/view)
 
 ## 1. **Preview**
-
+### (그림1) 프로그램 실행 모습. 
 ![image](https://github.com/YoHaiYo/LSD_calculator/assets/124754510/b77b6e4a-6b45-4424-aa7c-05544ff613f2)
-<그림1> 프로그램 실행 모습. 
 
+### (그림2) 직접 제작한 한계상태 단면검토 프로그램(우측)과 한길프로그램 출력 계산서(좌측) 의 계산결과 비교
 ![image](https://github.com/YoHaiYo/LSD_calculator/assets/124754510/975442c4-aba3-4fea-9f93-74b0f943fd09)
-<그림2> 직접 제작한 한계상태 단면검토 프로그램(우측)과 한길프로그램 출력 계산서(좌측) 의 계산결과 비교
+
 
 ## 2. 프로젝트 간단 소개
 
